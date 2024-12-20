@@ -1,0 +1,45 @@
+divers: 
+- subject1
+- subject2
+- subject3
+- subject4
+- subject5
+- subject6
+- subject7
+- subject8
+- subject9
+- subject10
+- subject11
+- subject12
+- subject13
+- subject14
+
+right_side_features:
+- 0
+- 1
+- 2
+- 3 
+- 8 
+
+left_side_features:
+- 4
+- 5
+- 6
+- 7 
+- 9 
+gestures: 
+- godown
+- reserve 
+- goup
+- assemble
+- notwell
+- ok 
+- outofair
+- stabilize
+- halfpressure
+- panting 
+- cold
+dataloc: './../data/'
+
+outputloc: './../data/'
+
